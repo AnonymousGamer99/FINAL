@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Teleport : MonoBehaviour {
 
-	public GameObject player;
+	public GameObject FPSController;
 	public float x;
 	public float y;
 	public float z;
@@ -19,6 +19,6 @@ public class Teleport : MonoBehaviour {
 	}
 
 	void OnTriggerEnter (Collider other){
-		player.transform.position = new Vector3(x,y,z);
+		FPSController.transform.position = new Vector3(x,y,z);
 	}
 }
