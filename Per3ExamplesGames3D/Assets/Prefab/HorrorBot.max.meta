@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 24ad0ef49cff89941969db78d213d610
+timeCreated: 1462565969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Cylinder001
+    100004: Cylinder002
+    100006: Cylinder004
+    100008: Cylinder005
+    100010: //RootNode
+    100012: Pyramid002
+    100014: Pyramid003
+    100016: Pyramid005
+    100018: Pyramid006
+    100020: Pyramid007
+    100022: Pyramid008
+    100024: Pyramid009
+    100026: Pyramid010
+    100028: Pyramid011
+    100030: Pyramid012
+    100032: Pyramid013
+    100034: Pyramid014
+    100036: Pyramid015
+    100038: Pyramid016
+    100040: Sphere001
+    100042: Sphere002
+    100044: Sphere003
+    400000: Box001
+    400002: Cylinder001
+    400004: Cylinder002
+    400006: Cylinder004
+    400008: Cylinder005
+    400010: //RootNode
+    400012: Pyramid002
+    400014: Pyramid003
+    400016: Pyramid005
+    400018: Pyramid006
+    400020: Pyramid007
+    400022: Pyramid008
+    400024: Pyramid009
+    400026: Pyramid010
+    400028: Pyramid011
+    400030: Pyramid012
+    400032: Pyramid013
+    400034: Pyramid014
+    400036: Pyramid015
+    400038: Pyramid016
+    400040: Sphere001
+    400042: Sphere002
+    400044: Sphere003
+    2300000: Box001
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder004
+    2300008: Cylinder005
+    2300010: Pyramid002
+    2300012: Pyramid003
+    2300014: Pyramid005
+    2300016: Pyramid006
+    2300018: Pyramid007
+    2300020: Pyramid008
+    2300022: Pyramid009
+    2300024: Pyramid010
+    2300026: Pyramid011
+    2300028: Pyramid012
+    2300030: Pyramid013
+    2300032: Pyramid014
+    2300034: Pyramid015
+    2300036: Pyramid016
+    2300038: Sphere001
+    2300040: Sphere002
+    2300042: Sphere003
+    3300000: Box001
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder004
+    3300008: Cylinder005
+    3300010: Pyramid002
+    3300012: Pyramid003
+    3300014: Pyramid005
+    3300016: Pyramid006
+    3300018: Pyramid007
+    3300020: Pyramid008
+    3300022: Pyramid009
+    3300024: Pyramid010
+    3300026: Pyramid011
+    3300028: Pyramid012
+    3300030: Pyramid013
+    3300032: Pyramid014
+    3300034: Pyramid015
+    3300036: Pyramid016
+    3300038: Sphere001
+    3300040: Sphere002
+    3300042: Sphere003
+    4300000: Sphere001
+    4300002: Sphere002
+    4300004: Box001
+    4300006: Cylinder001
+    4300008: Cylinder002
+    4300010: Pyramid002
+    4300012: Pyramid003
+    4300014: Pyramid005
+    4300016: Pyramid006
+    4300018: Pyramid007
+    4300020: Sphere003
+    4300022: Cylinder004
+    4300024: Cylinder005
+    4300026: Pyramid008
+    4300028: Pyramid009
+    4300030: Pyramid010
+    4300032: Pyramid011
+    4300034: Pyramid012
+    4300036: Pyramid013
+    4300038: Pyramid014
+    4300040: Pyramid015
+    4300042: Pyramid016
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
