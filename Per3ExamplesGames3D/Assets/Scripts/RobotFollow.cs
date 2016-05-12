@@ -8,7 +8,7 @@ public class RobotFollow : MonoBehaviour {
 	private Vector3 wayPointPos;
 	public Transform FPSController;
 	//This will be the robot's speed. Adjust as necessary.
-	private float speed = 6.0f;
+	public float speed = 6.0f;
 	void Start ()
 	{
 		//At the start of the game, the zombies will find the gameobject called wayPoint.
