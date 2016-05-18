@@ -12,4 +12,7 @@ public class RobotDeath : MonoBehaviour {
 	void Update () {
 	
 	}
+	void OnTriggerEnter (Collider other){
+		Application.LoadLevel ("GameOver");
+	}
 }
