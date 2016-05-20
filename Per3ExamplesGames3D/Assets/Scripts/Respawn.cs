@@ -13,6 +13,7 @@ public class Respawn : MonoBehaviour {
 	
 	}
 	void OnTriggerEnter (Collider other){
+
 		Application.LoadLevel ("BuildingRunner");
 	}
 }
