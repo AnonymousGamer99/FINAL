@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class Respawn : MonoBehaviour {
-
 	// Use this for initialization
 	void Start () {
 	
@@ -13,7 +12,6 @@ public class Respawn : MonoBehaviour {
 	
 	}
 	void OnTriggerEnter (Collider other){
-
 		Application.LoadLevel ("BuildingRunner");
 	}
 }

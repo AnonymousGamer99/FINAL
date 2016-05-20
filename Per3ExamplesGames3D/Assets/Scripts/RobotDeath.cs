@@ -2,7 +2,8 @@
 using System.Collections;
 
 public class RobotDeath : MonoBehaviour {
-
+	public GameObject Directional_Light;
+	public GameObject FPSController;
 	// Use this for initialization
 	void Start () {
 	
@@ -14,5 +15,7 @@ public class RobotDeath : MonoBehaviour {
 	}
 	void OnTriggerEnter (Collider other){
 		Application.LoadLevel ("GameOver");
+		Destroy (Directional_Light);
+		Destroy (FPSController);
 	}
 }
