@@ -18,7 +18,7 @@ public class RobotFollow : MonoBehaviour {
 	void Update ()
 	{
 		wayPointPos = new Vector3(wayPoint.transform.position.x, wayPoint.transform.position.y, wayPoint.transform.position.z);
-		//Here, the zombie's will follow the waypoint.
+		//Here, the robot will follow the waypoint.
 		transform.position = Vector3.MoveTowards(transform.position, wayPointPos, speed * Time.deltaTime);
 		transform.LookAt (FPSController);
 	}

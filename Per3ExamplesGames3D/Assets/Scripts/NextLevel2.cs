@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NextLevel : MonoBehaviour {
+public class NextLevel2 : MonoBehaviour {
 	public GameObject Directional_Light;
 	public GameObject FPSController;
 	
@@ -18,6 +18,6 @@ public class NextLevel : MonoBehaviour {
 	void OnTriggerEnter (Collider other){
 		Destroy (Directional_Light);
 		Destroy (FPSController);
-		Application.LoadLevel ("BuildingRunnerLv2");
+		Application.LoadLevel ("BuildingRunner3");
 	}
 }
