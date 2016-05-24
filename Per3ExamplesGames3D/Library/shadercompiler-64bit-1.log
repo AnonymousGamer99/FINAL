@@ -1,9 +1,11 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5872
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-6128
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=4 type=0 insize=141004 outsize=5840 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON _TERRAIN_OVERRIDE_SMOOTHNESS ok=1
+  api=4 type=0 insize=6481 outsize=1055 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=93240 outsize=3240 kw=DIRECTIONAL _TERRAIN_OVERRIDE_SMOOTHNESS ok=1
+  api=4 type=1 insize=6481 outsize=26860 kw= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=93240 outsize=6523 kw=DIRECTIONAL _TERRAIN_OVERRIDE_SMOOTHNESS ok=1
+  api=4 type=0 insize=723 outsize=1055 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=723 outsize=657 kw= ok=1
