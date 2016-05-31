@@ -8,15 +8,25 @@ ModelImporter:
     100000: //RootNode
     100002: Box001
     100004: Object004
+    100006: Cylinder001
+    100008: Plane001
     400000: //RootNode
     400002: Box001
     400004: Object004
+    400006: Cylinder001
+    400008: Plane001
     2300000: Box001
     2300002: Object004
+    2300004: Cylinder001
+    2300006: Plane001
     3300000: Box001
     3300002: Object004
+    3300004: Cylinder001
+    3300006: Plane001
     4300000: Box001
     4300002: Object004
+    4300004: Plane001
+    4300006: Cylinder001
     7400000: Take 001
     9500000: //RootNode
   materials:
